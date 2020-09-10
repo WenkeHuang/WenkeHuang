@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **WenkeHuang/WenkeHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## ⚡ Label:
+
+`前端`  `深度学习`  `计算机视觉`  `开发`  `程序猿`  `coder`
+
+## :pushpin: Project
+
+**开发**
+
+> **WHU_OliverJudger:** https://github.com/Raindow/WHU_OliverJudger
+
+**研究**
+
+> **Encyclopedia-of-Artificial-Intelligence:** https://github.com/WenkeHuang/Encyclopedia-of-Artificial-Intelligence
+>
+> **AI_daily_learning:** https://github.com/Szkqwer/AI_daily_learning
+>
+> **DL-ML-Conference:** https://github.com/Raindow/DL-ML-Conference
+
+## 💬 End
+
+**欢迎通过以下方式了解我**
+
+>
+> **GitHub:** https://github.com/WenkeHuang
+>
+> **CSDN:** https://blog.csdn.net/qq_41409438
+
+
+
