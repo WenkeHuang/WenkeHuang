@@ -32,11 +32,14 @@ Here are some ideas to get you started:
 >
 > **Federated Learning Research:** https://github.com/WenkeHuang/Federated-Learning-Research
 >
+>
+> **Pytorch_FedMD:** https://github.com/WenkeHuang/Pytorch_FedMD
+>
 > **AI_daily_learning:** https://github.com/Szkqwer/AI_daily_learning
 >
 > **DL-ML-Conference:** https://github.com/Raindow/DL-ML-Conference
 >
-> **CS231:** https://github.com/WenkeHuang/Encyclopedia-of-Artificial-Intelligence/blob/master/Computer%20Vision/CS231%20Convolutional%20Neural%20Networks%20for%20Visual%20Recognition.pdf
+> **CS231:** https://github.com/WenkeHuang/Encyclopedia-of-Artificial-Intelligence/blob/master/Deep%20Learning/Computer%20Vision/CS231%20Convolutional%20Neural%20Networks%20for%20Visual%20Recognition.pdf
 
 ## 💬 End
 
