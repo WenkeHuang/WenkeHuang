@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Label:
 
-`前端`  `深度学习`  `计算机视觉` `联邦学习`  `开发`  `程序猿`  `coder`
+`Front-end web development`  `Deep Learning`  `Computer Vision`  `Federated Learning`  `Econometrics`  
 
 ## :pushpin: Project
 
