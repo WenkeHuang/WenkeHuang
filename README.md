@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m  a senior at Wuhan University. I major in software engineering and minor in finance. 
+- 🔭 My name is Wenke Huang. I’m  a senior at Wuhan University. I major in software engineering and minor in finance. 
  
 
 ## ⚡ Label:
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## 💬 End
 
-**📫 How to reach me:**
+** 📫 How to reach me:**
 
 >
 > **GitHub:** https://github.com/WenkeHuang
