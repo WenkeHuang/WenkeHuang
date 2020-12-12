@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## 💬 End
 
-** 📫 How to reach me:**
+**📫 How to reach me:**
 
 >
 > **GitHub:** https://github.com/WenkeHuang
