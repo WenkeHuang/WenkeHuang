@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 ## :pushpin: Project
 
-**开发**
+**Development**
 
 > **WHU_OliverJudger:** https://github.com/Raindow/WHU_OliverJudger
 
-**研究**
+**Research**
 
 > **Encyclopedia-of-Artificial-Intelligence:** https://github.com/WenkeHuang/Encyclopedia-of-Artificial-Intelligence
 >
@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 >
 > **DL-ML-Conference:** https://github.com/Raindow/DL-ML-Conference
 >
-> **CS231:** https://github.com/WenkeHuang/Encyclopedia-of-Artificial-Intelligence/blob/master/Deep%20Learning/Computer%20Vision/CS231%20Convolutional%20Neural%20Networks%20for%20Visual%20Recognition.pdf
+> **CS231:** https://github.com/WenkeHuang/Encyclopedia-of-Artificial-Intelligence/blob/master/Deep%20Learning/Note/CS231%20Convolutional%20Neural%20Networks%20for%20Visual%20Recognition.pdf
 
 ## 💬 End
 
-**欢迎通过以下方式了解我**
+**Contract with me ⬇️**
 
 >
 > **GitHub:** https://github.com/WenkeHuang
