@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m  a senior at Wuhan University. I major in software engineering and minor in finance. 
+- 🌱 I’m  a senior at Wuhan University. I major in software engineering and minor in finance. 
  
 
 ## ⚡ Label:
