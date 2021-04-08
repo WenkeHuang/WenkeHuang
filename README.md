@@ -37,9 +37,7 @@ Here are some ideas to get you started:
 >
 > **Pytorch_FedMD:** https://github.com/WenkeHuang/Pytorch_FedMD
 >
-> **AI_daily_learning:** https://github.com/Szkqwer/AI_daily_learning
->
-> **DL-ML-Conference:** https://github.com/Raindow/DL-ML-Conference
+
 
 **Note**
 >
