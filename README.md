@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 > **Encyclopedia-of-Artificial-Intelligence:** https://github.com/WenkeHuang/Encyclopedia-of-Artificial-Intelligence
 >
-> **Pytorch_FedMD:** https://github.com/WenkeHuang/Pytorch_FedMD
 
 **Note**
 >
