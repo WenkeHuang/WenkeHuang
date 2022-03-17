@@ -2,7 +2,6 @@
 
 <!--
 **WenkeHuang/WenkeHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I  am  黄文柯 是个大帅哥
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m  an undergraduate student at Wuhan University. I major in software engineering and minor in finance. 
+- 🌱 I’m  a master student at Wuhan University. I major in artificial intelligence. 
  
 
 ## ⚡ Label:
 
-`Front-end web development`  `Deep Learning`  `Computer Vision`  `Federated Learning`  `Econometrics`  
+  `Federated Learning` `Continual Learning`  `Computer Vision`   `Econometrics`  `Front-end web development`
 
 ## :pushpin: Project
 
