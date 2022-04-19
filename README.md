@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Label:
 
-  `Federated Learning` `Continual Learning`  `Computer Vision`   `Econometrics`  `Front-end web development`
+  `Federated Learning` `Continual Learning` `Econometrics`  `Front-end web development`
 
 ## :pushpin: Project
 
