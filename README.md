@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m  a PhD student at Wuhan University. I major in artificial intelligence. 
+- 🌱 I’m  a master student at Wuhan University. I major in artificial intelligence. 
  
 
 ## ⚡ Label:
