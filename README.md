@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 >
 > **[Encyclopedia-of-Artificial-Intelligence](https://github.com/WenkeHuang/Encyclopedia-of-Artificial-Intelligence)** 
 >
-> **[CS231](https://github.com/WenkeHuang/Encyclopedia-of-Artificial-Intelligence/blob/master/Deep%20Learning/Note/CS231%20Convolutional%20Neural%20Networks%20for%20Visual%20Recognition.pdf)** 
-
+<!-- > **[CS231](https://github.com/WenkeHuang/Encyclopedia-of-Artificial-Intelligence/blob/master/Deep%20Learning/Note/CS231%20Convolutional%20Neural%20Networks%20for%20Visual%20Recognition.pdf)** 
+ -->
 
 ## 💬 End
 
