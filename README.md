@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m  a master student at Wuhan University. I major in artificial intelligence. 
+- 🌱 I’m  a PhD student at Wuhan University. I major in artificial intelligence. 
  
 
 ## ⚡ Label:
@@ -30,16 +30,5 @@ Here are some ideas to get you started:
 **Research**
 
 > **Encyclopedia-of-Artificial-Intelligence:** https://github.com/WenkeHuang/Encyclopedia-of-Artificial-Intelligence
->
-
-## 💬 End
-
-**📫 How to reach me:**
-
->
-> **GitHub:** https://github.com/WenkeHuang
->
-> **CSDN:** https://blog.csdn.net/qq_41409438
-
 
 
