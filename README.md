@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Field:
 
-  `Federated Learning` `Knowledge Distillation` `Graph Learning` `Behavioral Finance` `Empirical Asset Pricing`
+  `Federated Learning` `Multimodality Learning` `Behavioral Finance` `Empirical Asset Pricing`
 
 ## :pushpin: Project
 **Research**
