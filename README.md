@@ -20,16 +20,8 @@ Here are some ideas to get you started:
 
 ## ⚡ Field:
 
-  `Federated Learning` `Multimodality Learning` `Behavioral Finance` `Empirical Asset Pricing`
+  `Federated Learning` `Multimodal Large Language Model` `Behavioral Finance` `Empirical Asset Pricing`
 
-## :pushpin: Project
-**Research**
-
-> **Encyclopedia-of-Artificial-Intelligence:** https://github.com/WenkeHuang/Encyclopedia-of-Artificial-Intelligence
-
-**Development**
-
-> **WHU_OliverJudger:** https://github.com/Raindow/WHU_OliverJudger
 
 
 
