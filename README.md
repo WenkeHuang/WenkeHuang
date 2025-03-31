@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 
 
 
+You only live once. Do what you love.
